@@ -7,7 +7,7 @@ namespace TinhNamNhuan
         static void Main(string[] args)
         {
             int year;
-            int day;
+            
             Console.Write("Enter a year: ");
             year = int.Parse(Console.ReadLine());
 
